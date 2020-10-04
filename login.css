@@ -74,10 +74,11 @@ h1 {
 
 @media only screen and (max-width: 1465px){
     .loginBox{
-        width: 50%;
+        width: 40%;
     }
     .loginBox a {
         display: block;
+        text-align: center;
     }
 }
 @media only screen and (max-width: 923px){
