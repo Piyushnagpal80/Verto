@@ -70,3 +70,24 @@ input[type="radio"] {
     font-size: larger;
     text-transform: uppercase;
 }
+
+@media only screen and (max-width: 1123px){
+    #myForm{
+        width: 61%;
+    }
+}
+@media only screen and (max-width: 923px){
+    #myForm{
+        width: 71%;
+    }
+}
+@media only screen and (max-width: 793px){
+    #myForm{
+        width: 81%;
+    }
+}
+@media only screen and (max-width: 700px){
+    #myForm{
+        width: 90%;
+    }
+}
