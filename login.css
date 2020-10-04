@@ -72,9 +72,12 @@ h1 {
     color: #ff7575;
 }
 
-@media only screen and (max-width: 1123px){
+@media only screen and (max-width: 1465px){
     .loginBox{
-        width: 61%;
+        width: 50%;
+    }
+    .loginBox a {
+        display: block;
     }
 }
 @media only screen and (max-width: 923px){
@@ -85,9 +88,6 @@ h1 {
 @media only screen and (max-width: 793px){
     .loginBox{
         width: 81%;
-    }
-    .loginBox a {
-        display: block;
     }
 }
 
